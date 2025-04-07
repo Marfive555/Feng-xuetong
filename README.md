@@ -13,33 +13,33 @@
 
 ---
 
-### **誓言的核心原则：**: 
+### **誓言的核心原则：**
 
-- **对党忠诚** :flag-cn:  
-- **服务人民** :handshake:  
-- **执法公正** :balance_scale:  
-- **纪律严明** :book:  
-
----
-
-### **庄严的承诺：** :boom:  
-
-> :shield: **为捍卫政治安全**、  
-> :earth_asia: **维护社会安定**、  
-> :guardsman: **保障人民安宁**，  
-> 我将 **英勇奋斗**！ :muscle:
+- **对党忠诚** 🇨🇳  
+- **服务人民** 🤝  
+- **执法公正** ⚖️  
+- **纪律严明** 📚  
 
 ---
 
-## :sparkles: **我们承诺：为人民、为法治、为社会的和谐稳定，贡献力量！** :sparkles:
+### **庄严的承诺：** 💥  
+
+> 🛡️ **为捍卫政治安全**
+> 🌍 **维护社会安定** 
+> 👮‍♂️ **保障人民安宁**
+> 我将 **英勇奋斗**！ 💪
 
 ---
 
-[![GitHub Badge](https://img.shields.io/badge/坚守使命-中国人民警察-blue?style=for-the-badge&logo=appveyor)](https://github.com/)
-[![GitHub Badge](https://img.shields.io/badge/勇敢无畏-公安事业-green?style=for-the-badge&logo=appveyor)](https://github.com/)
+## ✨ **我们承诺：为人民、为法治、为社会的和谐稳定，贡献力量！** ✨
+
+---
+
+[![GitHub Badge](https://img.shields.io/badge/坚守使命-中国人民警察-blue?style=for-the-badge&logo=appveyor)]([https://github.com/](https://www.mps.gov.cn/))
+[![GitHub Badge](https://img.shields.io/badge/勇敢无畏-公安事业-green?style=for-the-badge&logo=appveyor)]([https://github.com/](https://www.mps.gov.cn/))
 
 ---
 
 ### **加入我们的行列** 🔥  
 **让我们携手并肩，捍卫社会安全，保卫人民安宁！** 🚓  
-[![Join Us](https://img.shields.io/badge/加入我们-Click%20Here-orange?style=for-the-badge)](https://github.com/)
+[![Join Us](https://img.shields.io/badge/加入我们-Click%20Here-orange?style=for-the-badge)]([https://github.com/](https://www.mps.gov.cn/))
